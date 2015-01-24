@@ -1,5 +1,9 @@
 #timeRange {
   position: absolute;
-  left: 500px;
-  top: 15px;
+  left: 740px;
+  top: 14px;
+}
+
+#myChart {
+  margin: 40px;
 }
